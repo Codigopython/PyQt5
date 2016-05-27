@@ -1,1 +1,1 @@
-# PyQt5
+# PyQt5  Problemas con algunas cosas
